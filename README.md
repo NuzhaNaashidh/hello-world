@@ -1,5 +1,2 @@
 # hello-world
-
-HI Humans!
-
-I love coding!
+Just another repository
